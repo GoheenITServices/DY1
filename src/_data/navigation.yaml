@@ -8,13 +8,13 @@ items:
     url: "/services"
   - text: Testimonials
     url: "/testimonials"
-  - text: Miss Annie's Kitchen
-    url: "/kitchen"
   - text: Our Mascot
     url: "/mascot"
+  - text: Important Dates This Month
+    url: "/parents"
   - text: How To Enroll
     url: "/enroll"
-  - text: Parent Page
-    url: "/parents"
+  - text: Forms, Guidelines, & Policies
+    url: "/forms-guidelines-policies"
   - text: Menu
     url: "/menu"

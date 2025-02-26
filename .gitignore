@@ -4,6 +4,7 @@ _tmp/
 node_modules/
 .vscode/
 *git/
+oldsite/
 package-lock.json
 .env
 

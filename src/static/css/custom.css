@@ -176,7 +176,7 @@ body {
 }
 
 body:before {
-  background-image: url(/static/img/background.webp);
+  background-image: url(/static/img/background.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
